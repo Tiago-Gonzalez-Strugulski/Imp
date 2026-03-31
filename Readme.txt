@@ -1,0 +1,1 @@
+Script de instalação de impressora via rede Shell Script 
